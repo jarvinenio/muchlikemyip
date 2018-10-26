@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2046
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MuchLikeMyIP", "MuchLikeMyIP\MuchLikeMyIP.csproj", "{E03DA536-B701-477D-8160-D77993F214F9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MuchLikeMyIP", "MuchLikeMyIP\MuchLikeMyIP.csproj", "{E03DA536-B701-477D-8160-D77993F214F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestMuchLikeMyIP", "TestMuchLikeMyIP\TestMuchLikeMyIP.csproj", "{77571F8F-333B-4EDA-A62E-654745240406}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{E03DA536-B701-477D-8160-D77993F214F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E03DA536-B701-477D-8160-D77993F214F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E03DA536-B701-477D-8160-D77993F214F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77571F8F-333B-4EDA-A62E-654745240406}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77571F8F-333B-4EDA-A62E-654745240406}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77571F8F-333B-4EDA-A62E-654745240406}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77571F8F-333B-4EDA-A62E-654745240406}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

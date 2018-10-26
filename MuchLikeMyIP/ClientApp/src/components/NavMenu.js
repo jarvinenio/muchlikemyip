@@ -17,10 +17,15 @@ export class NavMenu extends Component {
           <Navbar.Toggle />
         </Navbar.Header>
         <Navbar.Collapse>
-          <Nav>
+            <Nav>
             <LinkContainer to={'/'} exact>
-              <NavItem>
-                <Glyphicon glyph='cog' /> IP
+                <NavItem>
+                    <Glyphicon glyph='cog' /> IP
+            </NavItem>
+            </LinkContainer>
+            <LinkContainer to={'/Pastery'} exact>
+                <NavItem>
+                    <Glyphicon glyph='book' /> IP
               </NavItem>
             </LinkContainer>
           </Nav>
