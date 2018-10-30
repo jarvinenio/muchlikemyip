@@ -25,7 +25,7 @@ export class NavMenu extends Component {
             </LinkContainer>
             <LinkContainer to={'/Pastery'} exact>
                 <NavItem>
-                    <Glyphicon glyph='book' /> IP
+                    <Glyphicon glyph='book' /> Pastery
               </NavItem>
             </LinkContainer>
           </Nav>
