@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace MuchLikeMyIP.Repositories
+namespace MuchLikeMyIP
 {
     public abstract class Entity
     {
